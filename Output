@@ -1,0 +1,15 @@
+User-1 booked ticket successfully. Remaining: 49
+User-2 booked ticket successfully. Remaining: 48
+User-3 booked ticket successfully. Remaining: 47
+User-4 booked ticket successfully. Remaining: 46
+User-5 booked ticket successfully. Remaining: 45
+...
+User-48 booked ticket successfully. Remaining: 2
+User-49 booked ticket successfully. Remaining: 1
+User-50 booked ticket successfully. Remaining: 0
+
+User-51 booking failed. No tickets available.
+User-52 booking failed. No tickets available.
+User-53 booking failed. No tickets available.
+...
+User-100 booking failed. No tickets available.
